@@ -1,8 +1,6 @@
 # PhpStorm_Color_Scheme
 
 
-# intro
-
 # 1
 ![Screenshot](http://uupload.ir/files/qyza_neo1.png)
 
@@ -11,7 +9,7 @@
 # 2
 ![Screenshot](http://uupload.ir/files/cczy_neo2.png)
 
----
+# intro
 
 neo1 is one of the best high contrast dark color scheme for phpstorm
 that base on material ui color scheme , and has been improved for php development
