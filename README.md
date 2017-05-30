@@ -12,20 +12,20 @@ just downlaod neo-1.icls file and copy it to path
 
 ```
 
-1- ** change $user with your username **
-2- ** if go to your file manager and push ctl+h to see hidden files **
-3- ** if colors folder dosent exist just make one !
-4- profit
+1. ** change $user with your username **
+2. ** if go to your file manager and push ctl+h to see hidden files **
+3. ** if colors folder dosent exist just make one !
+4. profit
 
 
 and select it from phpstorm >
 
 ```
- File | Settings | Editor | Colors & Fonts
+File | Settings | Editor | Colors & Font
 ```
 
 # 1
 ![Screenshot](http://uupload.ir/files/qyza_neo1.png)
 
-#1
+# 2
 ![Screenshot](http://uupload.ir/files/cczy_neo2.png)
